@@ -4,7 +4,6 @@ La **Aplicación de Temporizador Pomodoro** es una herramienta simple. Esta tien
 
 ## Tabla de Contenidos
 
-- [Introducción](#introducción)
 - [Características](#características)
 
 
